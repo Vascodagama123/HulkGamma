@@ -1,3 +1,4 @@
+int zmiana (int a ,int b);
 void BubbleSort(std::vector<int> & data)
 {
     int length = data.size();
