@@ -1,0 +1,35 @@
+struct bubblesort : sort {
+    void operator()(std::vector<int> &array) {
+        // ...
+    }
+};
+
+struct insertionsort : sort { 
+    void operator()(std::vector<int> &array) {
+        // ...
+    }
+};
+
+void Shuffle(std::vector<int> & data)
+
+template<typename Iterator>
+void random_shuffle (Iterator first, Iterator last ); // shuffle a container.
+// Style 1
+  if (max < numd)
+  {
+      max = numd;
+  }
+// Style 2
+  if (max < numd)
+      {
+      max = numd;
+      }
+// Style 3
+  if (max < numd) {
+      max = numd;
+  }
+// Not a standard style
+  if (max < numd)
+    {
+      max = numd;
+    }
