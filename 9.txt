@@ -1,10 +1,3 @@
-#include <iostream>
-struct bubblesort : sort {
-    void operator()(std::vector<int> &array) {
-        // ...
-    }
-};
-
 struct insertionsort : sort { 
     void operator()(std::vector<int> &array) {
         // ...
