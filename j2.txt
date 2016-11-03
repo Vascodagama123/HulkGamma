@@ -26,7 +26,12 @@ int main()
   cout<<liczba<<" po zamianie na postaæ binarn¹: ";
   dec_to_bin(liczba);
   cout<<endl;
+
+
+// tutaj te¿ dodanie komentarza
+
  
   system("pause");
   return 0;
 }
+
