@@ -1,5 +1,5 @@
 // Wyznacznik wg rekurencyjnego rozwiniêcia Laplace'a
-// Data   : 8.02.2011
+// Data   : 8.02.1997
 // (C)2012 mgr Jerzy Wa³aszek
 //----------------------------
 

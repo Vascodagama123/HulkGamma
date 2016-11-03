@@ -1,6 +1,6 @@
 // Mno¿enie macierzy przez skalar
 // Data: 6.01.2010
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr Jerzy Wa³ach
 //-----------------------------
 
 #include <iostream>
