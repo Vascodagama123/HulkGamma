@@ -1,11 +1,3 @@
-
-2
-	
-
-Implemented Bubble Sort, Insertion Sort, Selection Sort, Quick Sort, Merge Sort and Radix Sort
-
-https://code.google.com/p/medicine-cpp/source/browse/trunk/cpp/sorting/SortingAlgorithms.cpp
-
 #include <iostream>
 #include <vector>
 #include <queue>
