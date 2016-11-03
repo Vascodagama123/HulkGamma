@@ -1,4 +1,4 @@
-void InsertionSort(std::vector<int> & data)
+void InsertionSort(vector<int> data)
 {
     int length = data.size();
 
@@ -26,6 +26,8 @@ void InsertionSort(std::vector<int> & data)
         }
     }
 }
+
+
 
 void Merge(std::vector<int> & data, int lowl, int highl, int lowr, int highr);
 void MergeSort(std::vector<int> & data, int low, int high)
