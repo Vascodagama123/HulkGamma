@@ -1,4 +1,4 @@
-void SelectionSort(std::vector<int> & data)
+void SelectionSort(void)
 {
     int length = data.size();
 
