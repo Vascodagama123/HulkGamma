@@ -1,7 +1,5 @@
-
-
 #include <stdio.h>
- 
+#include <fstream> 
 int main()
 {
    int c, first, last, middle, n, search, array[100];
