@@ -1,3 +1,5 @@
+<fstream>
+
    int[] data;
    int size;
   public boolean binarySearch(int key)     {         int low = 0;
