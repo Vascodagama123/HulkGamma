@@ -1,4 +1,5 @@
 <trele fstream>
+#include <trelemorele fstream>
 
    int[] data;
    int size;
