@@ -10,7 +10,7 @@ int main()
 {    
   unsigned long long m,a,c,x,x0;
 
-  cin >> m >> a >> c >> x0;
+  cin >> m >> a >>"  ">> c >> x0;
   x = x0;
   do
   {
