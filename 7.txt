@@ -13,27 +13,5 @@ int main()
     Shuffle(data);
     SelectionSort(data);
     print(data);
-
-    //Insertion sort
-    Shuffle(data);
-    InsertionSort(data);
-    print(data);
-
-    //Merge sort
-    Shuffle(data);
-    MergeSort(data, 0, data.size()-1);
-    print(data);
-
-    //Quick sort
-    Shuffle(data);
-    QuickSort(data, 0, data.size()-1);
-    print(data);
-
-    //Radix Sort
-    int b[] = {123, 6, 24, 4567, 45, 989834, 98, 23, 8, 0};
-    std::vector<int> rdata(b, b + sizeof(b)/sizeof(int));
-    RadixSort(rdata);
-    print(rdata);
-
     return 0;
 }
