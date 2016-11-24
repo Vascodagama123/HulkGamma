@@ -2,14 +2,10 @@
 // Data   : 8.02.1997
 // (C)2012 mgr Jerzy Wa³aszek
 //----------------------------
-
 #include <iostream>
 #include <iomanip>
-
 using namespace std;
 
-// Rekurencyjna funkcja obliczaj¹ca rozwiniêcie Laplace'a
-//-------------------------------------------------------
 double det(int n, int w, int * WK, double ** A)
 {
   int    i,j,k,m, * KK;
