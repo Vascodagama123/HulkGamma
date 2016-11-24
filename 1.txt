@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include <fstream> 
+#include <fstream>
+#include <trele morele>
 int main()
 {
    int c, first, last, middle, n, search, array[100];
