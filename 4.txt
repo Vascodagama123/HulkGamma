@@ -1,5 +1,5 @@
 <iostream>
-
+trele morele
 void SelectionSort(std::vector<int> & data)
 {
     int length = data.size();
